@@ -5,7 +5,7 @@ I'm a Computer Science student passionate about building things with code and gr
 ## 🚀 About Me
 
 - 🌱 Currently developing expertise in **C++**, **Data Structures & Algorithms**, **Python**, and **Full Stack Development**
-- 📍 Based in Bhimavaram, India
+- 📍 Based in Banglore, India
 - 💡 Learning by building small projects and practicing problem-solving every day
 
 ## 🛠️ Skills & Tech Stack
